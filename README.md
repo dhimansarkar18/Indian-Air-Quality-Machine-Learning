@@ -4,7 +4,7 @@
 
 # Air Pollution (India)
 
-In the recent years, there has been a rising concern regarding its rising air pollution levels. Hence we will be using . The dataset that we are using for our analysis depicts state-wise data with respect to air pollutants such as SO2 (Sulphur Dioxide), NO2 (Nitrogen Dioxide), Respirable Suspended Particulate Matter (RSPM), Suspended Particulate Matter (SPM) and Particulate Matter (PM 2.5). The records range from the year 1990 all the way up to 2005.
+In the recent years, there has been a rising concern regarding its rising air pollution levels. Hence we will be using . The dataset that we are using for our analysis depicts state-wise data with respect to air pollutants such as SO2 (Sulphur Dioxide), NO2 (Nitrogen Dioxide), Respirable Suspended Particulate Matter (RSPM), Suspended Particulate Matter (SPM) and Particulate Matter < 2.5 (PM 2.5). The records range from the year 1990 all the way up to 2005.
 
 
 # Dataset
