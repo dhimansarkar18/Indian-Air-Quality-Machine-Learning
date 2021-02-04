@@ -30,6 +30,7 @@ IX. Observations and Findings
 # Code
 
 Python Notebook: ("https://github.com/dhimansarkar18/MachineLearning/blob/main/India_Air_Quality_CA01_Dhiman_Sarkar.ipynb")
+Google Colab: ("https://colab.research.google.com/drive/1n1O4E2kRJAuc0YHNVKfDmYf0j5IBhJYk")
 
 # Author
 
